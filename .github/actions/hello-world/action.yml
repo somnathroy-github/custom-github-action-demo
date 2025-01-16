@@ -1,9 +1,9 @@
 name: "Hello World Action"
 description: "A custom GitHub Action to print a greeting message"
-author: "Your Name"
+author: "somnathroy-github"
 inputs:
   name:
-    description: "The name of the person to greet"
+    description: "SOmnath Roy"
     required: true
     default: "World"
 runs:
